@@ -1,0 +1,11 @@
+{
+  "name": "picosystem",
+  "description": "Kaluma library for Pimoroni's PicoSystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "buzzer-music": "git+https://github.com/niklauslee/buzzer-music.git",
+    "simple-fonts": "git+https://github.com/niklauslee/simple-fonts.git",
+    "st7789": "git+https://github.com/niklauslee/st7789.git"
+  }
+}
